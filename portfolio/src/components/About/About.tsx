@@ -3,34 +3,34 @@ import styles from './About.module.css';
 
 export const About = () => {
     return(
-        <section>
-            <h2>About</h2>
-            <div>
+        <section className={styles.container} id="about">
+            <h2 className={styles.title}>About</h2>
+            <div className={styles.content}>
                 <img 
                     src={getImageUrl("about/about_picture.png")} 
                     alt="about picture of the profile picture girl with a plant" 
                     className={styles.aboutPic}
                 />
-                <ul>
-                    <li>
+                <ul className={styles.aboutItems}>
+                    <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon"/>
-                        <div>
+                        <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p> 4 Years of software development</p>
+                            <p> Worked with Angular and React frameworks creating webApps from scratch </p>
                         </div>
                     </li>
-                    <li>
+                    <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")} alt="server icon"/>
-                        <div>
+                        <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
-                            <p> 4 Years of software development</p>
+                            <p> Nodejs and Python backend experience, creating relational databases and rest APIS</p>
                         </div>
                     </li>
-                    <li>
-                        <img src={getImageUrl("about/uiIcon.png")} alt="server icon"/>
-                        <div>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/uiIcon.png")} alt="ui icon"/>
+                        <div className={styles.aboutItemText}>
                             <h3>Data Scientist</h3>
-                            <p> 4 Years of software development</p>
+                            <p> Python dev using Databricks, Djanjo and Spark </p>
                         </div>
                     </li>
                 </ul>
