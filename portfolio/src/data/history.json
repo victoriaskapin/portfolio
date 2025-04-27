@@ -1,0 +1,35 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "Accenture",
+        "startDate": "Nov, 21",
+        "endDate": "Present",
+        "experiences": [
+            "Worked on retail projects",
+            "Project management"
+        ],
+        "imageSrc": "history/accenture.png"
+    },
+    {
+        "role": "Frontend Developer",
+        "organisation": "Google",
+        "startDate": "Jan, 20",
+        "endDate": "Oct, 21",
+        "experiences": [
+            "Developed user interfaces",
+            "Improved website performance"
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Intern",
+        "organisation": "Microsoft",
+        "startDate": "Jun, 19",
+        "endDate": "Dec, 19",
+        "experiences": [
+            "Assisted in software development",
+            "Conducted code reviews"
+        ],
+        "imageSrc": "history/microsoft.png"
+    }
+]
