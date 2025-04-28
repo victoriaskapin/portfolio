@@ -15,7 +15,6 @@ export const User = ()=>{
      </div>
      <img src={getImageUrl("hero/profile_pic_round.png")} alt="Profile" className={styles.profilePic}/>
      <div className={styles.topBlur}/>
-     <div className={styles.bottomBlur}/>
     </section>
     );
 }

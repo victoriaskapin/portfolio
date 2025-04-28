@@ -1,4 +1,10 @@
 
 export const getImageUrl = (path: string): string => {
-    return `/assets/${path}`;
-  };
+ 
+  if (window.location.hostname === 'localhost') {
+    return '/portfolio/assets/' + path;
+  }
+  else {
+    return `assets/${path}`;
+  }
+};

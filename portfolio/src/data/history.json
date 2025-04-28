@@ -1,8 +1,8 @@
 [
     {
-        "role": "Software Engineer",
+        "role": "Data Scientist Specialist",
         "organisation": "Accenture",
-        "startDate": "Nov, 21",
+        "startDate": "Jun, 23",
         "endDate": "Present",
         "experiences": [
             "Worked on retail projects",
@@ -11,25 +11,25 @@
         "imageSrc": "history/accenture.png"
     },
     {
-        "role": "Frontend Developer",
-        "organisation": "Google",
-        "startDate": "Jan, 20",
-        "endDate": "Oct, 21",
+        "role": "Analytics Sr Analyst",
+        "organisation": "Accenture",
+        "startDate": "Jul, 22",
+        "endDate": "Jun, 23",
         "experiences": [
             "Developed user interfaces",
             "Improved website performance"
         ],
-        "imageSrc": "history/google.png"
+        "imageSrc": "history/accenture.png"
     },
     {
-        "role": "Intern",
-        "organisation": "Microsoft",
-        "startDate": "Jun, 19",
-        "endDate": "Dec, 19",
+        "role": "Solution Architect Analyst",
+        "organisation": "Accenture",
+        "startDate": "Nov, 21",
+        "endDate": "Jul, 22",
         "experiences": [
             "Assisted in software development",
             "Conducted code reviews"
         ],
-        "imageSrc": "history/microsoft.png"
+        "imageSrc": "history/accenture.png"
     }
 ]
