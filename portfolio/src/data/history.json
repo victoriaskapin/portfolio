@@ -6,7 +6,8 @@
         "endDate": "Present",
         "experiences": [
             "Worked on retail projects",
-            "Project management"
+            "Project management",
+            "Developed prediction algorithms"
         ],
         "imageSrc": "history/accenture.png"
     },
@@ -17,7 +18,9 @@
         "endDate": "Jun, 23",
         "experiences": [
             "Developed user interfaces",
-            "Improved website performance"
+            "Improved website performance",
+            "Conducted code reviews"
+            
         ],
         "imageSrc": "history/accenture.png"
     },
@@ -28,7 +31,7 @@
         "endDate": "Jul, 22",
         "experiences": [
             "Assisted in software development",
-            "Conducted code reviews"
+            "UX/UI work"
         ],
         "imageSrc": "history/accenture.png"
     }

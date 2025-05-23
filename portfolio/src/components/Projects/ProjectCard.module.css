@@ -7,11 +7,13 @@
     background: linear-gradient(180deg, #3d51a1 0%, #0d1e3c 100%);
     padding: 18px 24px;
     box-shadow: 0px 16px 14px 0px  #04152d;
-    max-width: 345px;
-    min-height: 500px;
+    max-width: 450px;
+    min-height: 750px;
 }
 .image{
     margin-bottom: 26px;
+    min-height: 300px;
+    border-radius: 10px;
 }
 
 .title{

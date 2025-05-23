@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Asteroids",
+      "imageSrc": "projects/asteroids.png",
+      "description": "A classic Asteroids game built in C using abstract data types to simulate object-oriented programming, featuring linked lists and SDL2 for graphics.",
+      "skills": ["C", "SDL2", "Linked Lists", "OOP in C"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "META Front-End Capstone",
+      "imageSrc": "projects/metaproject.png",
+      "description": "A full-featured restaurant website developed with React, allowing users to order food and make table reservations as part of a capstone project.",
+      "skills": ["React", "JavaScript", "HTML", "CSS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/victoriaskapin/meta_front_end_capstone/tree/main"
     },
     {
-      "title": "Project C",
+      "title": "Deep Learning Training",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A series of Python exercises and experiments exploring deep learning concepts such as linear regression, softmax, MLNP, and CUDA programming.",
+      "skills": ["Python", "CUDA", "Linear Regression", "Softmax"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/victoriaskapin/deepLearningTraining/tree/clase1"
     }
   ]

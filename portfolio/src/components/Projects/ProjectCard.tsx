@@ -30,7 +30,7 @@ export const ProjectCard = ({project}:ProjectCardProps) => {
                 })}
             </ul>
             <div className={styles.links}>
-                <a href={project.demo} className={styles.link} target="_blank" > Demo </a>
+                {/* <a href={project.demo} className={styles.link} target="_blank" > Demo </a> */}
                 <a href={project.source} className={styles.link} target="_blank" > Source </a>
             </div>
         </div>
