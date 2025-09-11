@@ -26,9 +26,9 @@ export const Contact = ()=>{
                 </li>
 
                 <li className={styles.link}>
-                    <a href="mailto:vfernandezs@fi.uba.ar">
+                    <a href="mailto:skapinfr@gmail.com">
                         <img src={getImageUrl('contact/emailIcon.png')} alt="Email Icon" />
-                        <p>vfernandezs@fi.uba.ar </p>
+                        <p>skapinfr@gmail.com </p>
                     </a>
                 </li>
             </ul>
