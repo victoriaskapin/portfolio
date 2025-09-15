@@ -11,7 +11,7 @@ export const User = ()=>{
             I’ve worked on everything from embedded systems and Arduino, to frontend development, REST API hosting, and more recently, data engineering and large language models.
             <br/>Let’s connect if you’d like to learn more about what I do! 
         </p>
-        <a href="mailto:vfernandezs@fi.uba.ar" className={styles.contactBTN}>Contact Me</a>
+        <a href="#contact" className={styles.contactBTN}>Contact Me</a>
      </div>
      <img src={getImageUrl("hero/profile_pic_round.png")} alt="Profile" className={styles.profilePic}/>
      <div className={styles.topBlur}/>
